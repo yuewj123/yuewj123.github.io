@@ -5,7 +5,7 @@ layout: page
 #  王晓玲 
 
 
-<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic" width="500" height="660">
+<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic2" width="500" height="660">
 
 
 ### Xiaoling Wang
