@@ -7,7 +7,7 @@ layout: page
 
 <img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic" width="500" height="660">
 
-<br>
+### Xiaoling Wang
 
 ### 教授, 博导
 
