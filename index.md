@@ -7,6 +7,7 @@ layout: page
 
 <img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic" width="500" height="660">
 
+
 ### Xiaoling Wang
 
 ### 教授, 博导
@@ -33,8 +34,6 @@ layout: page
 
 <br>
 
----
-
 ### 研究兴趣
 
 王晓玲教授的研究兴趣包括**Web数据管理**、**Web服务技术**、**数据挖掘**、**信息检索**、**分布式图数据处理技术**、**知识图谱**、**序列推荐与序列数据分析**和**可解释性技术**。她在SIGMOD、SIGIR、AAAI、IJCAI、ICDE、WWW、ICWS、CIKM、DASFAA、APWEB等国际重要学术会议上发表篇论文**150**余篇，在IEEE TKDE、JWSR、WWWJ、JCST、《计算机学报》、《软件学报》等国内外学术期刊上发表论文**70**余篇。她共主持科技部、工信部、国家自然科学基金委等国家级和省部级项目**20**余项（包括**5项国家自然科学基金项目、2项国家重点项目等**），**4**次荣获省部级科技进步奖，**13**次获得会议优秀论文称号，获得发明专利**17**项，获得软件著作权**22**项，出版英文专著**2**本。
@@ -43,7 +42,7 @@ layout: page
 
 ---
 
-### 最新研究成果 ([学术成果列表](https://yuewj123.github.io/publications))
+### 最新研究成果 (<font color='blue'>[学术成果列表](https://yuewj123.github.io/publications)</font>)
 
 <li>Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
 
@@ -66,7 +65,7 @@ layout: page
 
 <br>
 
----
+***
 
 ### 工作经历
 
@@ -79,9 +78,11 @@ layout: page
 
 <br>
 
----
+***
 
 ### 实践经历
 
 - **04/2004 - 06/2004:** 香港科技大学 (中国香港), 计算机科学系，访问学者
 - **12/2004:** 新加坡国立大学（新加坡）， 访问学者
+
+
