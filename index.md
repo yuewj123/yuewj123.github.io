@@ -44,13 +44,13 @@ layout: page
 
 ### 最新研究成果 (<font color='blue'>[学术成果列表](https://yuewj123.github.io/publications)</font>)
 
-<li>Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
+<li>Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**) </li>
 
-<li>Xiaonan Li,  Kai Lv,  Hang Yan,  Tianyang Lin,  Wei Zhu,  Yuan Ni,  Guotong Xie,   **Xiaoling Wang***,  Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**)
+<li>Xiaonan Li,  Kai Lv,  Hang Yan,  Tianyang Lin,  Wei Zhu,  Yuan Ni,  Guotong Xie,   **Xiaoling Wang***,  Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**) </li>
 
-<li>Wenwen Qu,  Weixi Zhang,  Ji Cheng,  Chaorui Zhang,  Wei Han,  Bo Bai,  Chen Jason Zhang,  Liang He,  **Xiaoling Wang***: Optimizing Graph Partition by Optimal Vertex-Cut: A Holistic Approach. ICDE 2023: 1019-1031. (**<font color='red'>CCF A</font>**)
+<li>Wenwen Qu,  Weixi Zhang,  Ji Cheng,  Chaorui Zhang,  Wei Han,  Bo Bai,  Chen Jason Zhang,  Liang He,  **Xiaoling Wang***: Optimizing Graph Partition by Optimal Vertex-Cut: A Holistic Approach. ICDE 2023: 1019-1031. (**<font color='red'>CCF A</font>**) </li>
 
-<li>Yuanyuan Jin,  Wendi Ji,  Yao Shi,  **Xiaoling Wang***,  Xiaochun Yang: Meta-path guided graph attention network for explainable herb recommendation. Health Information Science and Systems. 11(1): 5 (2023). (**<font color='red'>SCI</font>**)
+<li>Yuanyuan Jin,  Wendi Ji,  Yao Shi,  **Xiaoling Wang***,  Xiaochun Yang: Meta-path guided graph attention network for explainable herb recommendation. Health Information Science and Systems. 11(1): 5 (2023). (**<font color='red'>SCI</font>**) </li>
 
 <br>
 
