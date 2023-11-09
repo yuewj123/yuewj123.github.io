@@ -2,11 +2,10 @@
 layout: page
 ---
 
-# <center> 王晓玲 </center>
+#  王晓玲 
 
-# <center> Xiaoling Wang </center>
 
-<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic" width="400" height="560">
+<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic" width="500" height="660">
 
 <br>
 
@@ -86,5 +85,3 @@ layout: page
 
 - **04/2004 - 06/2004:** 香港科技大学 (中国香港), 计算机科学系，访问学者
 - **12/2004:** 新加坡国立大学（新加坡）， 访问学者
-
-
