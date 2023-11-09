@@ -43,7 +43,7 @@ layout: page
 
 ---
 
-### 最新研究成果 (<font color='blue'>[学术成果列表](https://yuewj123.github.io/publications)</font>)
+### 最新研究成果 ([学术成果列表](https://yuewj123.github.io/publications))
 
 <li>Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
 
