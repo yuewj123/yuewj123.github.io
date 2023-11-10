@@ -1900,3 +1900,23 @@ $(document).ready(function() {
     mainClass: 'mfp-fade'
   });
 });
+
+document.addEventListener('DOMContentLoaded', function () {
+    // 获取图片轮播容器和所有图片元素
+    var carousel = document.querySelector('.image-carousel');
+    var images = document.querySelectorAll('.image-carousel img');
+
+    // 设置初始索引和切换间隔
+    var currentIndex = 0;
+    var interval = 3000; // 切换间隔（毫秒）
+
+    // 自动切换图片
+    function slide() {
+        images[currentIndex].style.display = 'none';
+        currentIndex = (currentIndex + 1) % images.length;
+        images[currentIndex].style.display = 'block';
+    }
+
+    // 启动定时器
+    setInterval(slide, interval);
+});
