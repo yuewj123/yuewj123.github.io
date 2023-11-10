@@ -29,4 +29,4 @@ title: teams
     <img src="/images/team3.jpg" alt="Image 3">
 </div>
 
-<script src="https://yuewj123.github.io/assets/js/main.js"></script>
+<script src="https://yuewj123.github.io/assets/js/main_image.js"></script>
