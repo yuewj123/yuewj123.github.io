@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: 项目
+title: projects
 ---
 
 最新更新: 2023年11月&nbsp;
