@@ -21,16 +21,13 @@ title: teams
 - 我的硕士研究生王朝勇在上海卫瓴信息科技有限公司担任研发总监，投身企业服务SaaS产业，为中小企业提供以客户为中心的协同CRM解决方案，并先后获得红杉资本和腾讯创投的投资。2022年7月完成云九资本领投的亿元A轮融资。
 
 
-## Group Photos
+## 📢 近期团队大事件
 
-
-
-<br>
-
-<div class="third">
-<img src="https://p.ipic.vip/04r3o2.jpg"> 博士研究生纪文迪在华东政法大学担任讲师
-<img src="https://p.ipic.vip/9mnzf6.jpg"> 博士研究生靳远远在郑州大学担任讲师
+<div class="image-carousel">
+    <img src="/images/team1.jpg" alt="Image 1">
+    <img src="/images/team2.jpg" alt="Image 2">
+    <img src="/images/team3.jpg" alt="Image 3">
 </div>
 
-
-<br>
+</body>
+</html>
