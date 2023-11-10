@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: 学生
+title: teams
 ---
 
 ## 学生成就

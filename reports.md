@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: 特邀报告
+title: reports
 ---
 
 最新更新: 2023年11月&nbsp;
