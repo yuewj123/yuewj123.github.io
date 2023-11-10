@@ -1901,22 +1901,31 @@ $(document).ready(function() {
   });
 });
 
-document.addEventListener('DOMContentLoaded', function () {
-    // 获取图片轮播容器和所有图片元素
-    var carousel = document.querySelector('.image-carousel');
-    var images = document.querySelectorAll('.image-carousel img');
+document.addEventListener("DOMContentLoaded", function () {
+    let currentIndex = 0;
+    const images = document.querySelectorAll(".image-carousel img");
+    const totalImages = images.length;
 
-    // 设置初始索引和切换间隔
-    var currentIndex = 0;
-    var interval = 3000; // 切换间隔（毫秒）
-
-    // 自动切换图片
-    function slide() {
-        images[currentIndex].style.display = 'none';
-        currentIndex = (currentIndex + 1) % images.length;
-        images[currentIndex].style.display = 'block';
+    function showImage(index) {
+        images.forEach((image, i) => {
+            image.style.display = i === index ? "block" : "none";
+        });
     }
 
-    // 启动定时器
-    setInterval(slide, interval);
+    function nextImage() {
+        currentIndex = (currentIndex + 1) % totalImages;
+        showImage(currentIndex);
+    }
+
+    function prevImage() {
+        currentIndex = (currentIndex - 1 + totalImages) % totalImages;
+        showImage(currentIndex);
+    }
+
+    // Initial display
+    showImage(currentIndex);
+
+    // Set interval for automatic image change
+    setInterval(nextImage, 5000); // Change image every 5 seconds
 });
+
