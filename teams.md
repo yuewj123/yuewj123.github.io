@@ -28,3 +28,5 @@ title: teams
     <img src="/images/team2.jpg" alt="Image 2">
     <img src="/images/team3.jpg" alt="Image 3">
 </div>
+
+<script src="main.js"></script>
