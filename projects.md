@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /publications/index.html
 title: projects
 ---
 
