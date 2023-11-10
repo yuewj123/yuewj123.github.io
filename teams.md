@@ -1,41 +1,35 @@
 ---
 layout: page
 permalink: /teams/index.html
-title: Teams
+title: 学生
 ---
 
-## OpenIoT Team
+## 学生成就
 
-During undergraduate, my two roommates and I co-founded a tech group called **OpenIoT**. With an entrepreneurial spirit in technology, we participated in numerous innovation and entrepreneurship competitions. As of 2023, the OpenIoT team has grown to include 24 official members and has accumulated a total of six national-level competition awards.
-
-<br>If you are interested in the IoT, robotics, or AIGC, we welcome you to [join OpenIoT](https://fzuiot.site/english/).
-
-<br>
-
-## My Fundings
-
-- Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot<br>**Funding $3000** (Grant No. 202310386056)<br>China National Undergraduate Innovation and Entrepreneurship Training Program<br>Project Leader & Student Investigator (2023-2024)<br><br>
-- Community Monitoring System based on Smart IoT and Inspection Vehicle<br>**Funding $1000** (Grant No. 2023080208)<br>National Youth Science Innovation Project Competition Award<br>Project Leader & Student Investigator (2023)<br><br>
+至今为止, 我已经指导了超过98个硕士生和博士生, 他们大多数在高校中担任讲师、博士后等职位，在企业中担任研发总监、研究员、工程师等职位.
 
 <br>
 
 ---
+
+- 我的博士研究生纪文迪在华东政法大学担任讲师；
+- 我的博士研究生靳远远在郑州大学担任讲师；
+- 我的博士研究生纪焘在复旦大学担任博士后；
+- 我的博士研究生刘文炎在浙江大学担任博士后；
+- 我的博士研究生王科强在平安科技有限公司担任研发经理；
+- 我的博士研究生屈稳稳在浦江实验室担任研究员；
+- 我的硕士研究生王朝勇在上海卫瓴信息科技有限公司担任研发总监，投身企业服务SaaS产业，为中小企业提供以客户为中心的协同CRM解决方案，并先后获得红杉资本和腾讯创投的投资。2022年7月完成云九资本领投的亿元A轮融资。
+
 
 ## Group Photos
 
-<br>
-
-<left>
-  <img src = "https://p.ipic.vip/l97lne.jpg">
-</left>
 
 
 <br>
 
 <div class="third">
-<img src="https://p.ipic.vip/04r3o2.jpg">
-<img src="https://p.ipic.vip/9mnzf6.jpg">
-<img src="https://p.ipic.vip/js0zdy.jpg">
+<img src="https://p.ipic.vip/04r3o2.jpg"> 博士研究生纪文迪在华东政法大学担任讲师
+<img src="https://p.ipic.vip/9mnzf6.jpg"> 博士研究生靳远远在郑州大学担任讲师
 </div>
 
 

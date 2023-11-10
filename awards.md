@@ -4,50 +4,83 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+最新更新: 2023年11月&nbsp;
 
-## Scholarships
+---
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+## 奖励
+- **2021年**获得CCKS2021(中国知识图谱会议) 最佳中文论文，论文题目：基于对比学习与数据增强的零样本事件抽取（<font color='red'>唯一</font>）；
+- **2019年**获得第16届中国信息系统及应用大会**优秀论文奖**，论文题目：Hybrid Indexes by Exploring Traditional B-tree and Linear Regression；
+- **2017年**获得第34届全国数据库学术会议（NDBC2017）**优秀学生论文奖**，论文题目：基于矩阵分解的上下文感知POI推荐；
+- **2015年**获得第32届全国数据库学术会议（NDBC2015）**萨师煊优秀学生论文奖**，论文题目：面向MAX/MIN优化的SQL Window函数处理；
+- **2014年**获得《Frontiers of Computer Science》期刊**突出贡献奖**；
+- **2014年获**得第31届中国数据库学术会议（NDBC2014）**优秀系统演示奖**，论文题目：基于评分分析的酒店推荐系统；
+- **2014年**获得第16届亚太Web会议（APWEB2014）**优秀学生论文奖**，论文题目：Exploring Influential Papers from Interdisciplinarity based on citation diversity；
+- **2013年**获得第30届中国数据库学术会议（NDBC2013）**萨师煊优秀学生论文奖**，论文题目：面向用户观点分析的多分类器集成和优化技术；
+- **2012年**获得第14届 APWeb会议的**优秀论文奖**，论文题目：Estimate Unlabeled-Data-Distribution for Semi-supervised PU Learning；
+- **2007年**获得第二十四届全国数据库学术会议（NDBC2007）**优秀论文奖**，论文题目：XDrill：基于文件差异的XML文档压缩算法；
+- **2006年**获得第二十三届全国数据库学术会议（NDBC2006）**优秀论文奖**，论文题目：LEO：基于序列化的XML文档高效查询处理方法；
 
-## Competitions
+### 带领学生在众多比赛中获得奖项：
+- **2022年**在上海市女大学生创新创业大赛中获得**银奖**；
+- **2021年**在MEDIQA2021自动文档摘要比赛（NAACL会议）multi answer summarization中获得**第一名**；
+- **2021年**WMT2021（国际最权威的机器翻译比赛）的生物医学翻译任务英译中**第二名**；
+- **2021年**在WMT2020（国际最权威的机器翻译比赛）生物医学赛道中获得英双向翻译任务机器评测的**冠军**；
+- **2018年**获得第十五届中国研究生数学建模竞赛**一等奖**；
+- **2013年**在第4届中国大学生服务外包创新创业大赛中获得**二等奖**；
+- **2005年**课题组实现的WEB SERVICES组合系统在ICEBE2005竞赛中，取得了国际**第一名**；
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+<br>
 
-## Honors
+---
 
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+## 荣誉
+- **2004**年获复旦大学“**世纪之星**”称号；
+- **2007年**获高等学校科学技术奖自然科学**二等奖**；
+- **2010年**获华东师范大学**“杰出新人”**奖；
+- **2011年-2013年**,入选教育部**新世纪优秀人才支持计划**；
+- **2012年**获华东师范大学 **“三八红旗手”**；
+- **2013年**获教育部科技进步奖二等奖；
+- **2020年**获上海市交通工程学会特等奖；
+- **2020年**获中国城市轨道交通协会“城市轨道交通科技进步奖”；
+- **2022年**获中国人工智能产业应用联盟大规模预训练模型优秀应用案例；（没有查到应用联盟，只有发展联盟）
+- 作为**主要起草人**，和上海应急管理局共同起草了自然灾害综合监测预警站点建设指南；
+- 担任上海自主智能无人系统科学中心可信人工智能研究所**副所长**；
+- **2022年主编**《鲲鹏技术丛书》系列的第三本《华为云计算技术与应用》，《鲲鹏技术丛书》入选了国家新闻出版署**十四五规划图书**；
 
-## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+<br>
+
+---
+
+## 社会兼职
+
+- ACM会员 
+- IEEE 会员
+- IEEE WOMAN会员
+- 中国计算机学会高级会员
+- 中国计算机学会数据库专委会（CCF-TCDB）委员
+- 中央军委装备发展部技术专业组专家
+- 中文信息学会语言与知识计算专委会委员
+- 中国航空学会第十届理事会信息融合分会委员、
+- 中国航空学会信息融合分会知识融合专业组总体组组长
+- 《信息技术 人工智能 知识工程参考架构》国际标准草案专家组成员
+- 上海市智能科学与技术高峰学科上海智能科学与技术研究院执行委员会委员
+- 上海市农业工程学会监事会监事长
+- 上海市农业工程学会农业信息与物联网专业委员会副主任
+
+
+<br>
+
+---
+
+## 社会服务
+
+- 担任《Frontiers of Computer Science》期刊青年副主编；
+- 担任《Information Sciences》、《Frontiers of Computer Science》、《Journal of Computer Science and Technology》、《Frontiers in China》、《计算机学报》和《软件学报》等国内外期刊的审稿人；
+- 《华东师范大学学报：自然科学版》位置服务隐私保护专辑特邀编委会成员（2015年）；
+- 2021年担任全国知识图谱与语义计算CCKS大会优秀青年学者论坛主席；
+- 2021年担任世界人工智能大会可信AI赋能金融科技国际研讨会Session主席；
+- 担任VLDB、WAIM、SCC、ER、APWeb、IUCS、SOSE、EDOC、DASFAA、ER等国际会议的程序委员；
+- 担任BDMS2013、BDMS2015、BDMS2016、BDMS2017、BDMS2018、BDMS2019、BDMS2020、BDMS2022、BDMS2023程序委员会主席；
+- 担任ICDE 2019 组委会成员

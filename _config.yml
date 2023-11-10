@@ -35,15 +35,15 @@ links:
   - title: 学术成果
     url: /publications/
   - title: 教学
-    url: /awards/
+    url: /hobbies/
   - title: 荣誉&奖励
     url: /awards/
   - title: 项目
-    url: /teams/
+    url: /projects/
   - title: 特邀报告
-    url: /hobbies/
+    url: /reports/
   - title: 学生
-    url: /hobbies/
+    url: /teams/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -75,7 +75,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: xiaolingwang
+  shortname: 王晓玲
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
