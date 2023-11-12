@@ -95,29 +95,24 @@ title: teams
     <img src="/images/team3.jpg" alt="Image 3">
 </div>
 
-<div class="slider-container">
-  <div class="slider-wrapper">
-    <div class="slide">
-      <img src="/images/team1.jpg" alt="Image 1">
+ <div class="slider-container">
+        <div class="slider">
+            <img src="/images/team1.jpg" alt="Image 1">
+            <img src="/images/team2.jpg" alt="Image 2">
+            <img src="/images/team3.jpg" alt="Image 3">
+            <!-- Add more images as needed -->
+        </div>
+        <div class="controls">
+            <div class="arrow prev">&lt;</div>
+            <div class="dots">
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <span class="dot"></span>
+                <!-- Add more dots as needed -->
+            </div>
+            <div class="arrow next">&gt;</div>
+        </div>
     </div>
-    <div class="slide">
-      <img src="/images/team2.jpg" alt="Image 2">
-    </div>
-    <div class="slide">
-      <img src="/images/team3.jpg" alt="Image 3">
-    </div>
-  </div>
-  <div class="slider-controls">
-    <div class="prev-btn" onclick="prevSlide()">&lt;</div>
-    <div class="dots-container">
-      <div class="dot" onclick="currentSlide(1)"></div>
-      <div class="dot" onclick="currentSlide(2)"></div>
-      <div class="dot" onclick="currentSlide(3)"></div>
-    </div>
-    <div class="next-btn" onclick="nextSlide()">&gt;</div>
-  </div>
-</div>
-
 <script src="https://yuewj123.github.io/assets/js/main_image.js"></script>
 
 
