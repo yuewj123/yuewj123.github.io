@@ -95,4 +95,29 @@ title: teams
     <img src="/images/team3.jpg" alt="Image 3">
 </div>
 
+<div class="slider-container">
+  <div class="slider-wrapper">
+    <div class="slide">
+      <img src="/images/team1.jpg" alt="Image 1">
+    </div>
+    <div class="slide">
+      <img src="/images/team2.jpg" alt="Image 2">
+    </div>
+    <div class="slide">
+      <img src="/images/team3.jpg" alt="Image 3">
+    </div>
+  </div>
+  <div class="slider-controls">
+    <div class="prev-btn" onclick="prevSlide()">&lt;</div>
+    <div class="dots-container">
+      <div class="dot" onclick="currentSlide(1)"></div>
+      <div class="dot" onclick="currentSlide(2)"></div>
+      <div class="dot" onclick="currentSlide(3)"></div>
+    </div>
+    <div class="next-btn" onclick="nextSlide()">&gt;</div>
+  </div>
+</div>
+
 <script src="https://yuewj123.github.io/assets/js/main_image.js"></script>
+
+
