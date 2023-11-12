@@ -35,7 +35,7 @@ title: teams
   </div>
 
   <div class="image-item">
-    <img src="/images/girl.jpg" alt="Image 2">
+    <img src="/images/boy.jpg" alt="Image 2">
     <p class="image-description"><strong>尚俊霖</strong><br>研究方向：图切分</p>
   </div>
 </div>
