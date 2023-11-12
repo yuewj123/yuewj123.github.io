@@ -62,3 +62,8 @@ function currentSlide(index) {
 // Initialize the slider
 showSlides(currentSlideIndex);
 
+// Automatic slide change every 3 seconds
+setInterval(() => {
+  nextSlide();
+}, 3000);
+
