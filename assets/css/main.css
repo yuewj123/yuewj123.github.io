@@ -436,3 +436,70 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   width: 100%; /* Make the text width 100% of the container */
 }
 
+/* main.css */
+
+/* Container for the slider */
+.slider-container {
+  position: relative;
+  width: 100%;
+  max-width: 600px; /* Adjust the maximum width as needed */
+  margin: auto;
+}
+
+/* Wrapper for the slides */
+.slider-wrapper {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+/* Style for each slide */
+.slide {
+  flex: 0 0 100%;
+}
+
+/* Style for the images */
+.slide img {
+  width: 100%;
+  height: auto;
+}
+
+/* Container for the slider controls */
+.slider-controls {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+/* Style for the arrow buttons */
+.prev-btn,
+.next-btn {
+  font-size: 24px;
+  cursor: pointer;
+}
+
+/* Style for the dots container */
+.dots-container {
+  display: flex;
+}
+
+/* Style for each dot */
+.dot {
+  width: 10px;
+  height: 10px;
+  background-color: #bbb;
+  border-radius: 50%;
+  margin: 0 8px;
+  cursor: pointer;
+}
+
+/* Active dot style */
+.active-dot {
+  background-color: #333;
+}
+
+
