@@ -67,6 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
     document.querySelector('.arrow.prev').addEventListener('click', prevSlide);
 
     // Autoplay (optional)
-    setInterval(nextSlide, 5000); // Change slide every 5 seconds
+    setInterval(nextSlide, 2000); // Change slide every 5 seconds
 });
 
