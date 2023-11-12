@@ -25,7 +25,7 @@ title: teams
 </div>
 
 
-### 硕士生
+### 硕士研究生
 
 
 <div class="image-container">
