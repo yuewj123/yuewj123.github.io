@@ -89,12 +89,6 @@ title: teams
 
 ## 📢 近期团队大事件
 
-<div class="image-carousel">
-    <img src="/images/team1.jpg" alt="Image 1">
-    <img src="/images/team2.jpg" alt="Image 2">
-    <img src="/images/team3.jpg" alt="Image 3">
-</div>
-
  <div class="slider-container">
         <div class="slider">
             <img src="/images/team1.jpg" alt="Image 1">
