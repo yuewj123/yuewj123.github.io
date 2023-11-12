@@ -415,6 +415,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 /* Style for each image and description pair */
 .image-item {
   display: flex; /* Make the image and text container flex items */
+  width: 50%;
   margin-right:1px; /* Adjust the margin as needed */
 }
 
