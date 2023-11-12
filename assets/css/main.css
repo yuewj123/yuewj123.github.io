@@ -399,7 +399,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 
 /* Set the width and hide the overflow for the container */
 .image-carousel img {
-  width: 60%;
+  width: 75%;
   display: none;
 }
 /* Show the first image by default */
@@ -415,13 +415,13 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 /* Style for each image and description pair */
 .image-item {
   display: flex; /* Make the image and text container flex items */
-  margin-right: 20px; /* Adjust the margin as needed */
+  margin-right:1px; /* Adjust the margin as needed */
 }
 
 /* Style for the images */
 .image-item img {
-  max-width: 100%;
-  height: auto;
+  width: 65%; /* Make the image width 100% of the container */
+  height:90%; /* Maintain aspect ratio */
 }
 
 /* Container for the text to be on the right of the image */
@@ -433,5 +433,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .image-description {
   font-weight: bold;
   margin-top: 5px; /* Adjust the margin as needed */
+  width: 100%; /* Make the text width 100% of the container */
 }
 
