@@ -27,43 +27,46 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 
 // main.js
+document.addEventListener("DOMContentLoaded", function () {
+    const slider = document.querySelector('.slider');
+    const dots = document.querySelectorAll('.dot');
+    let currentIndex = 0;
 
-let currentSlideIndex = 1;
+    function updateSlider() {
+        const newPosition = -currentIndex * 100 + '%';
+        slider.style.transform = 'translateX(' + newPosition + ')';
+    }
 
-function showSlides(index) {
-  const sliderWrapper = document.querySelector('.slider-wrapper');
-  const slides = document.querySelectorAll('.slide');
-  const dots = document.querySelectorAll('.dot');
+    function updateDots() {
+        dots.forEach((dot, index) => {
+            dot.classList.toggle('active', index === currentIndex);
+        });
+    }
 
-  if (index > slides.length) {
-    currentSlideIndex = 1;
-  } else if (index < 1) {
-    currentSlideIndex = slides.length;
-  }
+    function nextSlide() {
+        currentIndex = (currentIndex + 1) % dots.length;
+        updateSlider();
+        updateDots();
+    }
 
-  sliderWrapper.style.transform = `translateX(${-100 * (currentSlideIndex - 1)}%)`;
+    function prevSlide() {
+        currentIndex = (currentIndex - 1 + dots.length) % dots.length;
+        updateSlider();
+        updateDots();
+    }
 
-  dots.forEach(dot => dot.classList.remove('active-dot'));
-  dots[currentSlideIndex - 1].classList.add('active-dot');
-}
+    dots.forEach((dot, index) => {
+        dot.addEventListener('click', function () {
+            currentIndex = index;
+            updateSlider();
+            updateDots();
+        });
+    });
 
-function prevSlide() {
-  showSlides(currentSlideIndex -= 1);
-}
+    document.querySelector('.arrow.next').addEventListener('click', nextSlide);
+    document.querySelector('.arrow.prev').addEventListener('click', prevSlide);
 
-function nextSlide() {
-  showSlides(currentSlideIndex += 1);
-}
-
-function currentSlide(index) {
-  showSlides(currentSlideIndex = index);
-}
-
-// Initialize the slider
-showSlides(currentSlideIndex);
-
-// Automatic slide change every 3 seconds
-setInterval(() => {
-  nextSlide();
-}, 3000);
+    // Autoplay (optional)
+    setInterval(nextSlide, 5000); // Change slide every 5 seconds
+});
 
