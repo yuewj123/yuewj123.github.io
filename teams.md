@@ -10,6 +10,37 @@ title: teams
 
 ---
 
+### 博士研究生
+
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/boy.jpg" alt="Image 1">
+    <p class="image-description"><strong>王鹏飞</strong><br>研究方向：时序数据分析</p>
+  </div>
+
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 2">
+    <p class="image-description"><strong>岳文静</strong><br>研究方向：中医数据分析</p>
+  </div>
+</div>
+
+
+### 硕士生
+
+
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 1">
+    <p class="image-description"><strong>王乙乔</strong><br>研究方向：时序数据分析</p>
+  </div>
+
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 2">
+    <p class="image-description"><strong>尚俊霖</strong><br>研究方向：图切分</p>
+  </div>
+</div>
+
+
 ### 毕业学生
 <div class="image-container">
   <div class="image-item">
@@ -23,11 +54,37 @@ title: teams
   </div>
 </div>
 
-- 我的博士研究生纪焘在复旦大学担任博士后；
-- 我的博士研究生刘文炎在浙江大学担任博士后；
-- 我的博士研究生王科强在平安科技有限公司担任研发经理；
-- 我的博士研究生屈稳稳在浦江实验室担任研究员；
-- 我的硕士研究生王朝勇在上海卫瓴信息科技有限公司担任研发总监，投身企业服务SaaS产业，为中小企业提供以客户为中心的协同CRM解决方案，并先后获得红杉资本和腾讯创投的投资。2022年7月完成云九资本领投的亿元A轮融资。
+
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/boy.jpg" alt="Image 1">
+    <p class="image-description"><strong>纪焘</strong><br>博士研究生<br>复旦大学<br><strong>博士后</strong></p>
+  </div>
+
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 2">
+    <p class="image-description"><strong>刘文炎</strong><br>博士研究生<br>浙江大学<br><strong>博士后</strong></p>
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/boy.jpg" alt="Image 1">
+    <p class="image-description"><strong>王科强</strong><br>博士研究生<br>平安科技有限公司<br><strong>研发经理</strong></p>
+  </div>
+
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 2">
+    <p class="image-description"><strong>屈稳稳</strong><br>博士研究生<br>浦江实验室<br><strong>研究员</strong></p>
+  </div>
+</div>
+
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/boy.jpg" alt="Image 1">
+    <p class="image-description"><strong>王朝勇</strong><br>硕士研究生<br>上海卫瓴信息科技有限公司<br><strong>研发经理</strong></p>
+  </div>
+</div>
 
 
 ## 📢 近期团队大事件
