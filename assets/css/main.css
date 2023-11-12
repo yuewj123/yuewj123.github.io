@@ -398,7 +398,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 }
 /* Set the width and hide the overflow for the container */
 .image-carousel img {
-  width: 100%;
+  width: 60%;
   display: none;
 }
 /* Show the first image by default */
