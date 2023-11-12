@@ -405,3 +405,26 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 .image-carousel img:first-child {
   display: block;
 }
+
+/* Container for the images and descriptions */
+.image-container {
+  display: flex;
+}
+
+/* Style for each image and description pair */
+.image-item {
+  margin-right: 20px; /* Adjust the margin as needed */
+}
+
+/* Style for the images */
+.image-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Style for the image descriptions */
+.image-description {
+  text-align: center;
+  margin-top: 5px; /* Adjust the margin as needed */
+}
+
