@@ -8,12 +8,38 @@ title: teams
 
 至今为止, 我已经指导了超过98个硕士生和博士生, 他们大多数在高校中担任讲师、博士后等职位，在企业中担任研发总监、研究员、工程师等职位.
 
-<br>
-
 ---
 
-- 我的博士研究生纪文迪在华东政法大学担任讲师；
-- 我的博士研究生靳远远在郑州大学担任讲师；
+### 毕业学生
+<div class="image-container">
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 1">
+    <p class="image-description">
+        博士研究生
+        
+        纪文迪
+        
+        华东政法大学
+        
+        **讲师**
+    </p>
+  </div>
+
+  <div class="image-item">
+    <img src="/images/girl.jpg" alt="Image 2">
+    <p class="image-description">
+        博士研究生
+
+        靳远远
+
+        郑州大学
+
+        **讲师**
+        
+    </p>
+  </div>
+</div>
+
 - 我的博士研究生纪焘在复旦大学担任博士后；
 - 我的博士研究生刘文炎在浙江大学担任博士后；
 - 我的博士研究生王科强在平安科技有限公司担任研发经理；
