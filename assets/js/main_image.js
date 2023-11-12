@@ -25,3 +25,40 @@ document.addEventListener("DOMContentLoaded", function () {
     // Set interval for automatic image change
     setInterval(nextImage, 2000); // Change image every 5 seconds
 });
+
+// main.js
+
+let currentSlideIndex = 1;
+
+function showSlides(index) {
+  const sliderWrapper = document.querySelector('.slider-wrapper');
+  const slides = document.querySelectorAll('.slide');
+  const dots = document.querySelectorAll('.dot');
+
+  if (index > slides.length) {
+    currentSlideIndex = 1;
+  } else if (index < 1) {
+    currentSlideIndex = slides.length;
+  }
+
+  sliderWrapper.style.transform = `translateX(${-100 * (currentSlideIndex - 1)}%)`;
+
+  dots.forEach(dot => dot.classList.remove('active-dot'));
+  dots[currentSlideIndex - 1].classList.add('active-dot');
+}
+
+function prevSlide() {
+  showSlides(currentSlideIndex -= 1);
+}
+
+function nextSlide() {
+  showSlides(currentSlideIndex += 1);
+}
+
+function currentSlide(index) {
+  showSlides(currentSlideIndex = index);
+}
+
+// Initialize the slider
+showSlides(currentSlideIndex);
+
