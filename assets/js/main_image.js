@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     let currentIndex = 0;
-    const images = document.querySelectorAll(".carousel-container img");
+    const images = document.querySelectorAll(".image-carousel img");
     const totalImages = images.length;
 
     function showImage(index) {
