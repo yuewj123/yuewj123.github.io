@@ -14,29 +14,12 @@ title: teams
 <div class="image-container">
   <div class="image-item">
     <img src="/images/girl.jpg" alt="Image 1">
-    <p class="image-description">
-        博士研究生
-        
-        纪文迪
-        
-        华东政法大学
-        
-        **讲师**
-    </p>
+    <p class="image-description">博士研究生<br>纪文迪<br>华东政法大学<br>**讲师**</p>
   </div>
 
   <div class="image-item">
     <img src="/images/girl.jpg" alt="Image 2">
-    <p class="image-description">
-        博士研究生
-
-        靳远远
-
-        郑州大学
-
-        **讲师**
-        
-    </p>
+    <p class="image-description">博士研究生<br>靳远远<br>郑州大学<br>**讲师**</p>
   </div>
 </div>
 
