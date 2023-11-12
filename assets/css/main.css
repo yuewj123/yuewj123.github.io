@@ -396,6 +396,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   list-style: none;
   overflow: hidden;
 }
+
 /* Set the width and hide the overflow for the container */
 .image-carousel img {
   width: 60%;
@@ -413,6 +414,7 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
 
 /* Style for each image and description pair */
 .image-item {
+  display: flex; /* Make the image and text container flex items */
   margin-right: 20px; /* Adjust the margin as needed */
 }
 
@@ -422,9 +424,14 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
   height: auto;
 }
 
+/* Container for the text to be on the right of the image */
+.text-container {
+  margin-left: 10px; /* Adjust the margin as needed */
+}
+
 /* Style for the image descriptions */
 .image-description {
-  text-align: center;
+  font-weight: bold;
   margin-top: 5px; /* Adjust the margin as needed */
 }
 
