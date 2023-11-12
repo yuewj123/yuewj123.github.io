@@ -23,5 +23,5 @@ document.addEventListener("DOMContentLoaded", function () {
     showImage(currentIndex);
 
     // Set interval for automatic image change
-    setInterval(nextImage, 5000); // Change image every 5 seconds
+    setInterval(nextImage, 2000); // Change image every 5 seconds
 });
