@@ -450,11 +450,6 @@ img.mfp-img{width:auto;max-width:100%;height:auto;display:block;line-height:0;-w
     transition: transform 0.2s ease-in-out;
 }
 
-img {
-    width: 100%;
-    height: auto;
-}
-
 .controls {
     position: absolute;
     top: 50%;
