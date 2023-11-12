@@ -14,7 +14,7 @@ title: teams
 <div class="image-container">
   <div class="image-item">
     <img src="/images/girl.jpg" alt="Image 1">
-    <p class="image-description"><strong>纪文迪</strong><br>博士研究生<br><br>华东政法大学<br><strong>讲师</strong></p>
+    <p class="image-description"><strong>纪文迪</strong><br>博士研究生<br>华东政法大学<br><strong>讲师</strong></p>
   </div>
 
   <div class="image-item">
