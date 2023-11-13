@@ -19,7 +19,7 @@ title: teams
   </div>
 
   <div class="image-item">
-    <img src="/images/girl.jpg" alt="Image 2">
+    <img src="/images/boy.jpg" alt="Image 2">
    <p class="image-description"><strong>王鹏飞</strong><br>研究方向：时序数据分析</p>
   </div>
 </div>
@@ -74,7 +74,7 @@ title: teams
   </div>
 
   <div class="image-item">
-    <img src="/images/girl.jpg" alt="Image 2">
+    <img src="/images/boy.jpg" alt="Image 2">
     <p class="image-description"><strong>屈稳稳</strong><br>博士研究生<br>浦江实验室<br><strong>研究员</strong></p>
   </div>
 </div>
