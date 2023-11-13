@@ -15,12 +15,12 @@ title: teams
 <div class="image-container">
   <div class="image-item">
     <img src="/images/boy.jpg" alt="Image 1">
-    <p class="image-description"><strong>王鹏飞</strong><br>研究方向：时序数据分析</p>
+    <p class="image-description"><strong>朱威</strong><br>研究方向：自然语言处理</p>
   </div>
 
   <div class="image-item">
     <img src="/images/girl.jpg" alt="Image 2">
-    <p class="image-description"><strong>岳文静</strong><br>研究方向：中医数据分析</p>
+   <p class="image-description"><strong>王鹏飞</strong><br>研究方向：时序数据分析</p>
   </div>
 </div>
 
