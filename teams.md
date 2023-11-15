@@ -107,6 +107,6 @@ title: teams
             <div class="arrow next">&gt;</div>
         </div>
     </div>
-<script src="https://yuewj123.github.io/assets/js/main_image.js"></script>
+<script src="/assets/js/main_image.js"></script>
 
 
