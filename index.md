@@ -5,7 +5,7 @@ layout: page
 #  王晓玲 
 
 
-<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic2" width="550" height="700">
+<img src="https://yuewj123.github.io/xiaolingwang.jpg" class="floatpic2" width="550" height="660">
 
 
 ### Xiaoling Wang
@@ -16,11 +16,11 @@ layout: page
 
 - **华东师范大学**
 
-  **计算机科学与技术学院**
+**计算机科学与技术学院**
 
 - **东北大学**
 
-  **软件学院**
+**软件学院**
 
 <br>
 
