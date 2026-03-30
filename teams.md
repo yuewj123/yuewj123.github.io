@@ -15,12 +15,12 @@ title: teams
 <div class="image-container">
   <div class="image-item">
     <img src="/images/boy.jpg" alt="Image 1">
-    <p class="image-description"><strong>朱威</strong><br>研究方向：自然语言处理</p>
+    <p class="image-description"><strong>郑焕然</strong><br>研究方向：自然语言处理</p>
   </div>
 
   <div class="image-item">
     <img src="/images/boy.jpg" alt="Image 2">
-   <p class="image-description"><strong>王鹏飞</strong><br>研究方向：时序数据分析</p>
+   <p class="image-description"><strong>张振宇</strong><br>研究方向：图切分</p>
   </div>
 </div>
 
@@ -31,12 +31,12 @@ title: teams
 <div class="image-container">
   <div class="image-item">
     <img src="/images/girl.jpg" alt="Image 1">
-    <p class="image-description"><strong>王乙乔</strong><br>研究方向：时序数据分析</p>
+    <p class="image-description"><strong>梅忆寒</strong><br>研究方向：数据分析</p>
   </div>
 
   <div class="image-item">
     <img src="/images/boy.jpg" alt="Image 2">
-    <p class="image-description"><strong>尚俊霖</strong><br>研究方向：图切分</p>
+    <p class="image-description"><strong>戴思龙</strong><br>研究方向：强化学习</p>
   </div>
 </div>
 
