@@ -14,7 +14,7 @@ layout: page
 
 <br>
 
-**华东师范大学 计算机科学与技术学院**
+**华东师范大学计算机科学与技术学院**
 
 **东北大学 软件学院**
 
@@ -48,6 +48,14 @@ layout: page
 
 ### 最新研究成果 ([学术成果列表](https://yuewj123.github.io/publications))
 
+- Xinyu Wang, Yuanbin Wu, **Xiaoling Wang**: Logic-Regularized Verifier Elicits Reasoning from LLMs. ACL 2025. (**<font color='red'>CCF A</font>**)
+
+- Yanjun Li, Qiaoao Xu, Silong Dai, Tianwen Qian, **Xiaoling Wang**: EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering. AAAI 2026. (**<font color='red'>CCF A</font>**)
+
+- Huanran Zheng, **Xiaoling Wang**: Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree. ACL 2025. (**<font color='red'>CCF A</font>**)
+
+- Yihan Mei, Xinyu Wang, Changzhi Sun, Dell Zhang, **Xiaoling Wang**: Multi-label out-of-distribution detection with spectral normalized joint energy. WWW Journal (2025) 28: 40.(**<font color='red'>CCF A</font>**)
+
 - Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
 
 - Xiaonan Li,  Kai Lv,  Hang Yan,  Tianyang Lin,  Wei Zhu,  Yuan Ni,  Guotong Xie,   **Xiaoling Wang***,  Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**)
@@ -72,7 +80,7 @@ layout: page
 ***
 
 ### 工作经历
-
+- **2026 - 至今:** 东北大学，软件学院，**教授**
 - **09/2019 - 至今:** 华东师范大学，计算机科学与技术学院，**教授**
 - **10/2012 - 09/2019:** 华东师范大学，计算机科学与软件工程学院，**副院长、教授**
 - **07/2010 - 10/2012:** 华东师范大学，软件学院，**教授**
