@@ -243,3 +243,11 @@ title: Publications
 - 发明专利 (201810294523.X) “一种基于元路径的异构网络节点表示学习方法” <ins><strong><em>王晓玲</em></strong></ins>、 吴桐.  授权日期：2023年1月9日。
 - 发明专利 (ZL202011417045.0) “基于知识图谱的自动化事件标记与分类方法” <ins><strong><em>王晓玲</em></strong></ins>、 赵鑫、袁佳豪、王韵弘.  授权日期：2023年1月17日。
 - 发明专利 (ZL202011417045.0) “基于知识图谱的自动化事件标记与分类方法” <ins><strong><em>王晓玲</em></strong></ins>、 赵鑫、袁佳豪、王韵弘.  授权日期：2023年1月17日。
+
+
+---
+
+## 专著
+-《华为云计算技术与应用》，王晓玲，卢兴见 主编. 人民邮电出版社. 2024年（十四五规划图书，鲲鹏技术丛书；国家重点出版物出版专项规划图书，978-7-115-64066-6）, 2024-07-01
+-《多源知识的融合与应用》，王晓玲，王昊奋，杨晓春. 电子工业出版社，2024年（国家出版基金） ISBN 978-7-121-49938-8
+- Wendi Ji, Xiaoling Wang, Aoying Zhou. Time-Aware Conversion Prediction for E-Commerce. World Scientific Publishing Co. Pte. Ltd. (世界科学出版社)，ISSN：23825715，ISBN: 978-981-3224-70-4 (hardcover), ISBN: 978-981-3224-73-5 (ebook). http://www.worldscientific.com/worldscibooks/10.1142/10565, 2018
