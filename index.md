@@ -50,9 +50,12 @@ layout: page
 
 ---
 
+
 ### 最新研究成果 ([学术成果列表](https://yuewj123.github.io/publications))
 
 - Yanjun Li, Qiaoao Xu, Silong Dai, Tianwen Qian, **Xiaoling Wang***: EgoCross: Benchmarking Multimodal Large Language Models for Cross-Domain Egocentric Video Question Answering. AAAI 2026. (**<font color='red'>CCF A</font>**)
+
+- Yuling Sun, Wenjing Yue, Xiaojuan Ma, Xinru Page, Chiara Rossitto, Norman Makoto, **Xiaoling Wang**. Exploring Clinicians' Experience, Perception, and Expectation to AI-Empowered Clinical Decision Support Technologies in Traditional Medicine. CSCW2025 (**<font color='red'>CCF A</font>**)
 
 - Xinyu Wang, Yuanbin Wu, **Xiaoling Wang***: Logic-Regularized Verifier Elicits Reasoning from LLMs. ACL 2025. (**<font color='red'>CCF A</font>**)
 
@@ -62,9 +65,17 @@ layout: page
 
 - Wei Zhu, Aaron Xuxiang Tian, Congrui Yin, Yuan Ni, **Xiaoling Wang**, Guotong Xie. IAPT: Instance-Aware Prompt Tuning for Large Language Models. ACL (1) 2024: 14285-14304. (**<font color='red'>CCF A</font>**)
 
+- Jie Wang, Tao Ji, Yuanbin Wu, Hang Yan, Tao Gui, Qi Zhang, Xuanjing Huang, **Xiaoling Wang**. Length Generalization of Causal Transformers without Position Encoding. ACL (Findings) 2024: 14024-14040 (**<font color='red'>CCF A</font>**)
+
 - Huanran Zheng, Wei Zhu, **Xiaoling Wang**. NAT4AT: Using Non-Autoregressive Translation Makes Autoregressive Translation Faster and Better. The Web Conference 2024. (**<font color='red'>CCF A</font>**)
 
+- Qifan Zhang, Junjie Yao, **Xiaoling Wang**. Effective Entry-wise Flow for Molecule Generation. ICDE2024 (**<font color='red'>CCF A</font>**)
+
+- Tao Ji, Yuanbin Wu, **Xiaoling Wang**. Typology Guided Multilingual Position Representations: Case on Dependency Parsing. Findings of the Association for Computational Linguistics. ACL 2023. (**<font color='red'>CCF A</font>**)
+
 - Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
+
+- Zhicheng Wang, Yufang Liu, Tao Ji, **Xiaoling Wang**, Yuanbin Wu, Congcong Jiang, YeChao, Zhencong Han, Ling Wang, Xu Shao and Wenqiu Zeng. Rehearsal-free Continual Language Learning via Efficient Parameter Isolation. ACL 2023.(**<font color='red'>CCF A</font>**)
 
 - Xiaonan Li,  Kai Lv,  Hang Yan,  Tianyang Lin,  Wei Zhu,  Yuan Ni,  Guotong Xie,   **Xiaoling Wang***,  Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**)
 
