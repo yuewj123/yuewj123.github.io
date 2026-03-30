@@ -4,10 +4,26 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-最新更新: 2023年11月&nbsp;
+最新更新: 2026年3月&nbsp;
 
 ## 会议论文
 
+- Huanran Zheng, **Xiaoling Wang**. Faster Speculative Decoding via Effective Draft Decoder with Pruned Candidate Tree. ACL 2025. (**<font color='red'>CCF A</font>**)
+- Xinyu Wang, Changzhi Sun, Dell Zhang, **Xiaoling Wang**, Xuelong Li. Logic-Regularized Verifier Elicits Reasoning from LLMs. ACL 2025. (**<font color='red'>CCF A</font>**)
+- Qiao Xu, Tianwen Qian, **Xiaoling Wang**. HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection. ICME 2025. (**<font color='red'>CCF B</font>**)
+- Qifan Zhang, Junjie Yao, **Xiaoling Wang**. Effective Entry-wise Flow for Molecule Generation. ICDE 2024. (**<font color='red'>CCF A</font>**)
+- Jie Wang, Tao Ji, Yuanbin Wu, Hang Yan, Tao Gui, Qi Zhang, Xuanjing Huang, **Xiaoling Wang**. Length Generalization of Causal Transformers without Position Encoding. ACL Findings 2024: 14024-14040.
+- Wei Zhu, Aaron Xuxiang Tian, Congrui Yin, Yuan Ni, **Xiaoling Wang**, Guotong Xie. IAPT: Instance-Aware Prompt Tuning for Large Language Models. ACL (1) 2024: 14285-14304. (**<font color='red'>CCF A</font>**)
+- Huanran Zheng, Wei Zhu, **Xiaoling Wang**. NAT4AT: Using Non-Autoregressive Translation Makes Autoregressive Translation Faster and Better. The Web Conference 2024. (**<font color='red'>CCF A</font>**)
+- Huanran Zheng, Wei Zhu, **Xiaoling Wang**. Chimera Model of Candidate Soups for Non-Autoregressive Translation. DASFAA 2024. (**<font color='red'>CCF B</font>**)
+- Yuxin He, Buzhou Tang, **Xiaoling Wang**. Generative Models for Automatic Medical Decision Rule Extraction from Text. EMNLP 2024: 7034-7048. (**<font color='red'>CCF B</font>**)
+- Yanting Liu, Tao Ji, Changzhi Sun, Yuanbin Wu, **Xiaoling Wang**. Generation with Dynamic Vocabulary. EMNLP 2024: 18931-18948.(**<font color='red'>CCF B</font>**)
+- Yihan Mei, Xinyu Wang, Dell Zhang, **Xiaoling Wang**. Multi-Label Out-of-Distribution Detection with Spectral Normalized Joint Energy. APWeb-WAIM 2024. (**<font color='red'>CCF C</font>**)
+- Zichun Wang, Huanran Zheng, **Xiaoling Wang**. Filter-GLAT: Filter Glanced Decoder Output for Non-autoregressive Transformer. APWeb-WAIM 2024. (**<font color='red'>CCF C</font>**)
+- Jiannan Li, Zhenyu Zhang, **Xiaoling Wang**, Haoyang Li. Tree and Graph based Two-Stages Routing for Approximate Nearest Neighbor Search. APWeb-WAIM 2024. (**<font color='red'>CCF C</font>**)
+- Bo Zhong, Pengfei Wang, **Xiaoling Wang**. TS-LCL: Layer-wise Contrastive Learning for Unsupervised Time Series Domain Adaptation. APWeb-WAIM 2024. (**<font color='red'>CCF C</font>**)
+- Chenchen Wang, Xingjian Lu, **Xiaoling Wang**, Chenhui Qi. CGAR: A Contrastive Graph Attention Residual Network for Enhanced Fake News Detection. APWeb/WAIM (3) 2024: 161-175. (**<font color='red'>CCF C</font>**)
+- Junlin Shang, Zhenyu Zhang, Wenwen Qu, **Xiaoling Wang**. HHP: A Hybrid Partitioner for Large-Scale Hypergraph. ADMA 2024. Lecture Notes in Computer Science, vol. 15389, pp. 153-167.
 - Wei Zhu, Peng Wang, Yuan Ni, Guotong Xie, **Xiaoling Wang**: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
 - Xiaonan Li, Kai Lv, Hang Yan, Tianyang Lin, Wei Zhu, Yuan Ni, Guotong Xie, **Xiaoling Wang**, Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**)
 - Zhicheng Wang, Yufang Liu, Tao Ji, **Xiaoling Wang**, Yuanbin Wu, Congcong Jiang, Ye Chao, Zhencong Han, Ling Wang, Xu Shao, Wenqiu Zeng: Rehearsal-free Continual Language Learning via Efficient Parameter Isolation. ACL (1) 2023: 10933-10946. (**<font color='red'>CCF A</font>**)
@@ -114,7 +130,12 @@ title: Publications
 
 
 ## 国际期刊论文
-
+- Yihan Mei, Xinyu Wang, Changzhi Sun, Dell Zhang, **Xiaoling Wang**. Multi-label out-of-distribution detection with spectral normalized joint energy. WWW Journal (2025) 28:40.
+- Xin Yi, Linlin Wang, **Xiaoling Wang**, Liang He. Fine-grained detoxification framework via instance-level prefixes for large language models. Neurocomputing 611: 128684 (2025).
+- Chuyun Shen, Wenhao Li, Haoqing Chen, **Xiaoling Wang**, Fengping Zhu, Yuxin Li, Xiangfeng Wang, Bo Jin. Complementary information mutual learning for multimodality medical image segmentation. Neural Networks 180: 106670 (2024).
+- Dingkai Zhang, Huanran Zheng, Wenjing Yue, **Xiaoling Wang**. Advancing ITS Applications with LLMs: A Survey on Traffic Management, Transportation Safety, and Autonomous Driving. IJCRS (2) 2024: 295-309.
+- Xin Yi, Shunfan Zheng, Linlin Wang, **Xiaoling Wang**, Liang He. A safety realignment framework via subspace-oriented model fusion for large language models. Knowl. Based Syst. 306: 112701 (2024).
+- Lyuheng Yuan, Da Yan, Wenwen Qu, Saugat Adhikari, Jalal Khalil, Cheng Long, **Xiaoling Wang**. T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph. Proceedings of the ACM on Management of Data 1(1): 1-26 (2023).
 - Yuanyuan Jin, Wendi Ji, Yao Shi, **Xiaoling Wang**, Xiaochun Yang: Meta-path guided graph attention network for explainable herb recommendation. Health Information Science and Systems. 11(1): 5 (2023).
 - Lyuheng Yuan, Da Yan, Wenwen Qu, Saugat Adhikari, Jalal Khalil, Cheng Long, **Xiaoling Wang**: T-FSM: A Task-Based System for Massively Parallel Frequent Subgraph Pattern Mining from a Big Graph. Proceedings of the ACM on Management of Data. 1(1): 1-26 (2023).
 - Wenyan Liu, Xiangfeng Wang, Haikun Zheng, Bo Jin, **Xiaoling Wang**, Hongyuan Zha: Mitigating disparate impact on model accuracy in differentially private learning. Information Science. 616: 108-126 (2022).
@@ -145,6 +166,11 @@ title: Publications
 
 ## 中文期刊论文
 
+- 戴思龙，王鹏飞，**王晓玲**. 基于深度学习的人脸去识别化研究综述. 《计算机研究与发展》2025. （**<font color='red'>CCF A类，T1</font>**）
+- 邬树纯，郑焕然，**王晓玲**，牛军钰. 基于检索增强的市民信箱智能派发算法. CCKS 2024. 《中文信息学报》。
+- **王晓玲**，岳文静，王昊奋，徐飞. 大语言模型技术融入数据库课程的教学探索. 计算机教育 2024. （**<font color='red'>CCF T2</font>**）
+- 钟博，王鹏飞，王乙乔，**王晓玲**. 基于深度学习的EEG数据分析技术综述. 浙江大学学报（工学版）。
+- 尚俊霖，张振宇，屈稳稳，**王晓玲**. 面向分布式图计算的图划分技术综述. 计算机研究与发展, 2024: 1-14.
 - 面向中医传承的可解释药方推荐系统,NDBC 2023 Demo
 - 纪文迪，张森辉，孔维璟，**王晓玲**. 基于对比学习与数据增强的零样本事件检测.中文信息学报[J].. 2023 
 - 岳文静，屈稳稳，林宽，**王晓玲**. 基于机器学习的基数估计技术综述[J].计算机研究与发展. 2023:1-14. 
