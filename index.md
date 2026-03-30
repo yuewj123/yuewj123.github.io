@@ -60,6 +60,10 @@ layout: page
 
 - Yihan Mei, Xinyu Wang, Changzhi Sun, Dell Zhang, **Xiaoling Wang***: Multi-label out-of-distribution detection with spectral normalized joint energy. WWW Journal (2025) 28: 40.(**<font color='red'>CCF A</font>**)
 
+- Wei Zhu, Aaron Xuxiang Tian, Congrui Yin, Yuan Ni, **Xiaoling Wang**, Guotong Xie. IAPT: Instance-Aware Prompt Tuning for Large Language Models. ACL (1) 2024: 14285-14304. (**<font color='red'>CCF A</font>**)
+
+- Huanran Zheng, Wei Zhu, **Xiaoling Wang**. NAT4AT: Using Non-Autoregressive Translation Makes Autoregressive Translation Faster and Better. The Web Conference 2024. (**<font color='red'>CCF A</font>**)
+
 - Wei Zhu,  Peng Wang,  Yuan Ni,  Guotong Xie,  **Xiaoling Wang***: BADGE: Speeding Up BERT Inference after Deployment via Block-wise Bypasses and Divergence-based Early Exiting. ACL (industry) 2023: 500-509. (**<font color='red'>CCF A</font>**)
 
 - Xiaonan Li,  Kai Lv,  Hang Yan,  Tianyang Lin,  Wei Zhu,  Yuan Ni,  Guotong Xie,   **Xiaoling Wang***,  Xipeng Qiu: Unified Demonstration Retriever for In-Context Learning. ACL (1) 2023: 4644-4668. (**<font color='red'>CCF A</font>**)
