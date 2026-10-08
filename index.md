@@ -12,22 +12,14 @@ layout: page
 
 ### 教授, 博导
 
-<br>
 
-<div style="margin-top:32px; line-height:1.4;">
-  <div style="font-size:24px; font-weight:700;">东北大学</div>
-  <div style="font-size:19px; color:#666;">软件学院</div>
-</div>
+**东北大学**
 
-<div style="display:flex; align-items:center; gap:24px; margin-top:28px;">
-  <div style="font-size:18px; font-weight:700; white-space:nowrap;">
-    曾任职于：
-  </div>
-  <div style="line-height:1.4;">
-    <div style="font-size:20px; font-weight:700;">华东师范大学</div>
-    <div style="font-size:18px; color:#666;">计算机科学与技术学院</div>
-  </div>
-</div>
+**软件学院**
+
+**曾任职于：华东师范大学**
+
+**计算机科学与技术学院**
 
 <br>
 
