@@ -18,9 +18,9 @@ layout: page
 
 **软件学院**
 
-<span style="color:#888; font-size:15px;">曾任职于：</span> **华东师范大学**
+<span style="color:#666;">曾任职于：</span> **华东师范大学**  
 
-&nbsp;&nbsp;&nbsp;&nbsp;**计算机科学与技术学院**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**计算机科学与技术学院**
 
 <br>
 
