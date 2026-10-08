@@ -18,13 +18,9 @@ layout: page
 
 **软件学院**
 
-<div style="display: flex; align-items: center; gap: 28px;">
-  <div><strong>曾任职于：</strong></div>
-  <div>
-    <div><strong>华东师范大学</strong></div>
-    <div style="margin-top: 18px;"><strong>计算机科学与技术学院</strong></div>
-  </div>
-</div>
+**曾任职于：华东师范大学**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **计算机科学与技术学院**
 
 <br>
 
